@@ -1,13 +1,23 @@
 <repo>
 	<footerlinks>
 		<link>
-			<name>Follow me on Twitter</name>
-			<url>https://twitter.com/reposi3</url>
+			<name>Twitter</name>
+			<url>https://twitter.com/cretzengod</url>
 			<iconclass>fa fa-twitter</iconclass>
 		</link>
 		<link>
-			<name>I want this depiction template</name>
-			<url>https://github.com/supermamon/Reposi3/</url>
+			<name>Facebook</name>
+			<url>https://facebook.com/hellotinh03</url>
+			<iconclass>fa fa-facebook</iconclass>
+		</link>
+		<link>
+			<name>Steam</name>
+			<url>https://steamcommunity.com/id/cretzen</url>
+			<iconclass>fa fa-steam</iconclass>
+		</link>
+		<link>
+			<name>Nhà tao</name>
+			<url>https://github.com/hellotinh03/cretzen.github.io</url>
 			<iconclass>fa fa-thumbs-up</iconclass>
 		</link>
 	</footerlinks>
