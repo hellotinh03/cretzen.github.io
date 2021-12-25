@@ -1,19 +1,19 @@
 <package>
-	<id>com.supermamon.oldpackage</id>
-	<name>Old Package</name>
+	<id>love.litten.copypasta</id>
+	<name>Copypasta 🎃</name>
 	<version>1.0.0-1</version>
 	<compatibility>
-		<firmware>
-			<maxiOS>7.0</maxiOS>
-			<otherVersions>unsupported</otherVersions>
+ 		<firmware>
+			<maxiOS>14.8.1</maxiOS>
+			<otherVersions>cút</otherVersions>
 			<!--
 			for otherVersions, you can put either unsupported or unconfirmed
 			-->
-		</firmware>
+ 		</firmware>
 	</compatibility>
 	<dependencies></dependencies>
 	<descriptionlist>
-		<description>This is an old package. Requires iOS 7 and below..</description>
+ 		<description>Ăn cắp từ Discord của Litten.</description>
 	</descriptionlist>
 	<screenshots></screenshots>
 	<changelog>
