@@ -2,15 +2,6 @@
 	<id>love.litten.copypasta</id>
 	<name>Copypasta 🎃</name>
 	<version>1.0.0-1</version>
-	<compatibility>
- 		<firmware>
-			<maxiOS>15.0</maxiOS>
-			<otherVersions>cút</otherVersions>
-			<!--
-			for otherVersions, you can put either unsupported or unconfirmed
-			-->
- 		</firmware>
-	</compatibility>
 	<dependencies></dependencies>
 	<descriptionlist>
  		<description>Ăn cắp từ Discord của Litten.</description>
