@@ -22,14 +22,14 @@ Name: Copypasta 🎃
 Author: Litten
 Depiction: https://hellotinh03.github.io/repo/depictions/?p=[love.litten.copypasta]
 
-Package: com.camila314.gdpracticemusic
+Package: com.camila314.gd.practicemode
 Version: 0.1.0-3
 Section: Tweaks
 Maintainer: camila314
 Architecture: iphoneos-arm
 Filename: ./debs/GDPracticeMusic_0.1.0-3+release_iphoneos-arm64.deb
 Size: 35
-Description: The GD practice song bypass for iPhone
-Name: GD Practice Music
+Description: Play the normal level song instead of the practice mode song
+Name: Geometry Dash practice music hack
 Author: camila314
-Depiction: https://hellotinh03.github.io/repo/depictions/?p=[com.camila314.gdpracticemusic]
+Depiction: https://hellotinh03.github.io/repo/depictions/?p=[com.camila314.gd.practicemode]
