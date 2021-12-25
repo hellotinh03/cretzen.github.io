@@ -2,15 +2,6 @@
 	<id>love.litten.dress</id>
 	<name>Dress 👗</name>
 	<version>2.6-1</version>
-	<compatibility>
- 		<firmware>
-			<maxiOS>15.0</maxiOS>
-			<otherVersions>cút</otherVersions>
-			<!--
-			for otherVersions, you can put either unsupported or unconfirmed
-			-->
- 		</firmware>
-	</compatibility>
 	<dependencies></dependencies>
 	<descriptionlist>
  		<description>Ăn cắp từ Discord của Litten.</description>
