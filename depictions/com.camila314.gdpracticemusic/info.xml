@@ -1,0 +1,14 @@
+<package>
+	<id>com.camila314.gdpracticemusic</id>
+	<name>GD Practice Music</name>
+	<version>0.1.0-3</version>
+	<dependencies></dependencies>
+	<descriptionlist>
+		<description>The GD practice song bypass for iPhone</description>
+	</descriptionlist>
+	<screenshots></screenshots>
+	<changelog>
+		<change>Initial release</change>
+	</changelog>
+	<links></links>
+</package>
