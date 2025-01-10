@@ -1,0 +1,79 @@
+{
+    "name": "Cretzen App List",
+    "subtitle": "Personalized for myself.",
+    "description": "the funny",
+    "iconURL": "https://raw.githubusercontent.com/hellotinh03/repo/refs/heads/master/CydiaIcon.png",
+    "headerURL": "https://f000.backblazeb2.com/file/rileytestut/ExampleSource/OceanHeader.png",
+    "website": "https://github.com/hellotinh03/repo",
+    "tintColor": "#BEDBED",
+    "featuredApps": [
+        "com.example.myapp",
+        "com.example.anotherapp"
+    ],
+    "apps": [
+        {
+            "name": "iChan",
+            "bundleIdentifier": "com.astafiev.app",
+            "developerName": "Zchandev",
+            "subtitle": "Open source imageboard browser for 4chan and 2ch",
+            "localizedDescription": "Open source cross-platform client for popular imageboards: 4chan.org and 2ch.hk",
+            "iconURL": "https://raw.githubusercontent.com/Zchandev/4chan-ios-mobile-app-iChan/refs/heads/master/assets/icon/icon.png",
+            "tintColor": "#FE8100",
+            "category": "social",
+            "screenshots": [
+                "https://camo.githubusercontent.com/4e9710899207b201692a9bc2ed7719e8f5cd8dd6dc894a6bdf9ee0102db65cce/68747470733a2f2f7a6368616e2e6170702f6173736574732f73637265656e352e706e67",
+                "https://camo.githubusercontent.com/a39a784477efaf78d80a972c9c30056c95c85d7a933be1303f743c9c2eb647eb/68747470733a2f2f7a6368616e2e6170702f6173736574732f73637265656e342e706e673f713d31"
+            ],
+            "versions": [
+                {
+                    "version": "3.24.8291817",
+                    "size": 40303128,
+                    "downloadURL": "https://zchan.app/download/ios/iChan.ipa",
+                }
+            ],
+            "appPermissions": {
+                "entitlements": [
+                    "com.astafiev.app.Share2",
+                    "group.com.astafiev.app"
+                ],
+                "privacy": {
+                    "NSPhotoLibraryUsageDescription": "App saves photos to your Photo Library.",
+                    "NSCameraUsageDescription": "App uses camera to take photos.",
+                    "NSMicrophoneUsageDescription": "App uses microphone to record video."
+                }
+            }
+        },
+        {
+            "name": "iChan Alpha",
+            "bundleIdentifier": "com.astafiev.app",
+            "developerName": "Zchandev",
+            "subtitle": "(Alpha Version) Open source imageboard browser for 4chan and 2ch",
+            "localizedDescription": "(Alpha Version) Open source cross-platform client for popular imageboards: 4chan.org and 2ch.hk",
+            "iconURL": "https://raw.githubusercontent.com/Zchandev/4chan-ios-mobile-app-iChan/refs/heads/master/assets/icon/icon.png",
+            "tintColor": "#FE8100",
+            "category": "social",
+            "screenshots": [
+                "https://camo.githubusercontent.com/4e9710899207b201692a9bc2ed7719e8f5cd8dd6dc894a6bdf9ee0102db65cce/68747470733a2f2f7a6368616e2e6170702f6173736574732f73637265656e352e706e67",
+                "https://camo.githubusercontent.com/a39a784477efaf78d80a972c9c30056c95c85d7a933be1303f743c9c2eb647eb/68747470733a2f2f7a6368616e2e6170702f6173736574732f73637265656e342e706e673f713d31"
+            ],
+            "versions": [
+                {
+                    "version": "3.24.8291817",
+                    "size": 40303128,
+                    "downloadURL": "https://zchan.app/download/ios/alpha/iChan.ipa",
+                }
+            ],
+            "appPermissions": {
+                "entitlements": [
+                    "com.astafiev.app.Share2",
+                    "group.com.astafiev.app"
+                ],
+                "privacy": {
+                    "NSPhotoLibraryUsageDescription": "App saves photos to your Photo Library.",
+                    "NSCameraUsageDescription": "App uses camera to take photos.",
+                    "NSMicrophoneUsageDescription": "App uses microphone to record video."
+                }
+            }
+        }
+    ]
+}
