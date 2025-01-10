@@ -7,8 +7,7 @@
     "website": "https://github.com/hellotinh03/repo",
     "tintColor": "#BEDBED",
     "featuredApps": [
-        "com.astafiev.app",
-        "com.astafievalpha.app"
+        "com.astafiev.app"
     ],
     "apps": [
         {
