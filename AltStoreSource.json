@@ -7,8 +7,8 @@
     "website": "https://github.com/hellotinh03/repo",
     "tintColor": "#BEDBED",
     "featuredApps": [
-        "com.example.myapp",
-        "com.example.anotherapp"
+        "com.astafiev.app",
+        "com.astafievalpha.app"
     ],
     "apps": [
         {
@@ -27,8 +27,10 @@
             "versions": [
                 {
                     "version": "3.24.8291817",
+                    "buildVersion": "5432",
+                    "date": "2025-1-11",
                     "size": 40303128,
-                    "downloadURL": "https://zchan.app/download/ios/iChan.ipa",
+                    "downloadURL": "https://zchan.app/download/ios/iChan.ipa"
                 }
             ],
             "appPermissions": {
@@ -45,7 +47,7 @@
         },
         {
             "name": "iChan Alpha",
-            "bundleIdentifier": "com.astafiev.app",
+            "bundleIdentifier": "com.astafievalpha.app",
             "developerName": "Zchandev",
             "subtitle": "(Alpha Version) Open source imageboard browser for 4chan and 2ch",
             "localizedDescription": "(Alpha Version) Open source cross-platform client for popular imageboards: 4chan.org and 2ch.hk",
@@ -59,8 +61,10 @@
             "versions": [
                 {
                     "version": "3.24.8291817",
+                    "buildVersion": "5432",
+                    "date": "2025-1-11",
                     "size": 40303128,
-                    "downloadURL": "https://zchan.app/download/ios/alpha/iChan.ipa",
+                    "downloadURL": "https://zchan.app/download/ios/alpha/iChan.ipa"
                 }
             ],
             "appPermissions": {
